@@ -28,7 +28,7 @@ Locales['sv'] = {
   -- Vehicles
   ['vehicle_menu'] = 'fordon',
   ['vehicle_blocked'] = 'det finns ingen tillgänglig plats att ställa ut fordonet på!',
-  ['garage_prompt'] = 'klicka på ~INPUT_CONTEXT~ för att komma åt ~y~garaget~s~.',
+  ['garage_prompt'] = 'tryck ~INPUT_CONTEXT~ för att komma åt ~y~garaget~s~.',
   ['garage_title'] = 'garage',
   ['garage_stored'] = 'inställt',
   ['garage_notstored'] = 'uttaget',
